@@ -2,7 +2,7 @@ import React from 'react' // necesitamos esto también ahora en los archivos los
 
 const App = () => {
   return (
-    <div>
+    <div className="container">
       hello webpack
     </div>
   )
